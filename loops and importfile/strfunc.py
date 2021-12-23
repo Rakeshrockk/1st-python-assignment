@@ -23,26 +23,26 @@
 
 # 4th s.find(s1)
 
-# st="hello world"
-# i=st.find('l')
-# print(i)
-# i2=st.find('lo')
-# print(i2)
-# i3=st.find(' ')
-# print(i3)
-# i4=st.find('d')
-# print(i4)
-# i5=st.find('x')
-# print(i5)
+st="hello world"
+i=st.find('l')
+print(i)
+i2=st.find('lo')
+print(i2)
+i3=st.find(' ')
+print(i3)
+i4=st.find('d')
+print(i4)
+i5=st.find('x')
+print(i5)
 
 # 5th st.strip function
 
-st5="      hello world        "
-s1=st5.strip()
-print(s1)
-st="##Hello world welcome to pyy##"
-s2=st.strip("#")
-print(s2)
-st2="hello world welcome to python"
-s3=st2.strip("ll")
-print(s3)
+# st5="      hello world        "
+# s1=st5.strip()
+# print(s1)
+# st="##Hello world welcome to pyy##"
+# s2=st.strip("#")
+# print(s2)
+# st2="hello world welcome to python"
+# s3=st2.strip("ll")
+# print(s3)
